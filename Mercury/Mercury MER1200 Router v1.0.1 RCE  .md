@@ -103,3 +103,4 @@ There is no judgment on the parameters server, which results in that when adding
 ![QQ20200324-233205@2x](https://tva1.sinaimg.cn/large/00831rSTgy1gd9uxw2wz7j30oi094gp4.jpg)
 
 The id command was successfully executed and the permission is root
+
